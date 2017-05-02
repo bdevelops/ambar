@@ -27,12 +27,12 @@ Ambar to prosty system zarządzania dokumentami z automatycznym indeksowaniem, O
 * Bezpieczne przechowywanie plików
 * Statystyki w czasie rzeczywistym
 * Interfejs webowy
-* [REST API](https://github.com/RD17/ambar/blob/master/API_DOC.md)
+* [EN: REST API](https://github.com/RD17/ambar/blob/master/API_DOC.md)
 
 ## Cloud
 W pełni funkcjonalny najnowszy Ambar hostowany na naszych serwerach. Wszystkie konta i dane są zabezpieczone i starannie przechowywane. Możesz podłączyć Ambar bezpośrednio do swojego konta w Dropbox i cieszyć się z potężnego narzędzia pozwalającego przeszukiwać Twój dysk w tej usłudze. Wypróbowanie Ambar Cloud to doskonały sposób, aby przekonać się czym jest Ambar.
 
- * [Rejestracja](https://app.ambar.cloud/signup)
+ * [EN: Rejestracja](https://app.ambar.cloud/signup)
  * To tyle!
 
 Podstawowe konto Ambar Cloud daje Ci miejsce do przechowywania maksymalnie 2000 dokumentów. Aby przechowywać więcej plików, możesz zmienić plan na wersję Pro.
@@ -46,7 +46,7 @@ Obrazy Dockera można znaleźć na [Docker Hub](https://hub.docker.com/u/ambar/)
 
 ## Jak to działa
 * [EN: Co kryje się "pod maską"](https://blog.ambar.cloud/ambar-under-the-hood/)
-* [Dokumentacja REST API](https://github.com/RD17/ambar/blob/master/API_DOC.md)
+* [EN: Dokumentacja REST API](https://github.com/RD17/ambar/blob/master/API_DOC.md)
 * Kod źródłowy jest łatwo dostępny na licencji [Fair Source License 1](https://github.com/RD17/ambar/blob/master/License.txt). ([Frontend](https://github.com/RD17/ambar-frontend), [Crawler](https://github.com/RD17/ambar-crawler), [ElasticSearch](https://github.com/RD17/ambar-es), [Rabbit](https://github.com/RD17/ambar-rabbit), [Mongo](https://github.com/RD17/ambar-mongodb), [Installer](https://github.com/RD17/ambar-install))
 
 ## FAQ
@@ -88,13 +88,13 @@ Nie, sprawdź naszą Politykę Prywatności.
 Załóż temat w zakładce "issues" na GitHub lub opowiedz o problemie na https://ambar.cloud
 
 ## Zmiany
-[Zmiany](https://github.com/RD17/ambar/blob/master/CHANGELOG.md)
+[EN: Zmiany](https://github.com/RD17/ambar/blob/master/CHANGELOG.md)
 
 ## Dziękujemy za wsparcie
 - [hartmch](https://github.com/hartmch)
 
 ## Polityka Prywatności
-[Polityka Prywatności](https://github.com/RD17/ambar/blob/master/Privacy%20Policy.md)
+[EN: Polityka Prywatności](https://github.com/RD17/ambar/blob/master/Privacy%20Policy.md)
 
 ## Licencja
 [Fair Source 1 License v0.9](https://github.com/RD17/ambar/blob/master/License.txt)
